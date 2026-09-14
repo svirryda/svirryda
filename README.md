@@ -12,4 +12,4 @@
 **Стек:** JavaScript / Node.js · HTML/CSS · Capacitor · SQLite · Godot
 
 **Портфолио:** https://svirryda.github.io/portfolio/
-**Связаться:** anasvirida@gmail.com
+**Связаться:** [Telegram @svirryda](https://t.me/svirryda) · anasvirida@gmail.com
